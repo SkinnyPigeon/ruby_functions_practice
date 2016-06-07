@@ -57,7 +57,9 @@ def cube (lbd)
   return lbd**3
 end
 
-
+def sphere (r)
+  return ((4.0 /3.0 ) * (3.14) * (r**3)).to_f.round(1)
+end
 
 
 
