@@ -53,6 +53,10 @@ def number_to_short_month_name (number)
 end
 
 
+def cube (lbd)
+  return lbd**3
+end
+
 
 
 
